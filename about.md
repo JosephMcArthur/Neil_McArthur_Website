@@ -1,10 +1,10 @@
 <div>
-<div class = col-md-6>
+<div class ="col-md-6">
 
 <img src="https://github.com/JosephMcArthur/Neil_McArthur_Website/blob/master/headshot2012.jpg?raw=true" alt="My face!" height="42" width="42">
 
 </div>
-<div class = col-md-6>
+<div class ="col-md-6">
 
 <p>I make recruitment simple providing what candidates and clients want through the application of expert engineering knowledge and building relationships that endure the test of time.</p>
 
